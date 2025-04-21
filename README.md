@@ -17,7 +17,24 @@ This project is a simple calculator written in Python, built from scratch to app
 - (Currently) Add two numbers.
 - (Under development) Additional operations such as division.
 
-# How to Use
+## Project Progress
+### Goal 1: Setting up the repository and linking it to GitHub
+- The local repository `new-calculator` was created and initialized using Git.
+- A `README.md` file was created to document the learning objectives and description.
+- A `calculator.py` file was created with the basic addition operation.
+- The repository was linked to GitHub (`https://github.com/Samir1981/new-calculator.git`) and initial changes were uploaded.
+
+### Goal 2: Developing the Division Feature
+**Subgoals**:
+1. Create a new branch (`division-feature`) to develop the division operation.
+2. Write Python code to add a division function with division-by-zero error handling.
+3. Log changes to Git with clear messages.
+4. Upload the `division-feature` branch to GitHub.
+5. Create a Pull Request to merge the changes into the `master` branch.
+
+**Status**: Running.
+
+## How to Use
 - Run `calculator.py` using Python 3.
 - Follow the instructions to enter numbers and select the operation.
 
@@ -25,4 +42,4 @@ This project is a simple calculator written in Python, built from scratch to app
 - Python 3.x.
 
 ## Notes
-- This is a learning project aimed at enhancing my skills.
+- This is a tutorial project aimed at enhancing my skills.
