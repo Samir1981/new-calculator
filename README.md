@@ -43,3 +43,7 @@ This project is a simple calculator written in Python, built from scratch to app
 
 ## Notes
 - This is a tutorial project aimed at enhancing my skills.
+## الهدف الثاني
+- إضافة ميزة القسمة مع معالجة خطأ القسمة على صفر باستخدام try-except.
+تحديث واجهة المستخدم لدعم الجمع والقسمة.
+- معالجة المدخلات غير الرقمية.
